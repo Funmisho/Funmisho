@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Funmisho
-- 👀 I’m interested in Data Science/Machine learning
-- 🌱 I’m currently learning Data analytics on Udacity, I also have a subscription with Datacamp
-- 💞️ I’m looking to collaborate on projects
+### 👋 Hi, I’m @Funmisho
+
+- 👀 I’m passionate about **Cloud Computing**, **Linux**, **Networking**, and **Cloud Security**.
+- 🌱 Currently focused on mastering **AWS Cloud Computing**, **Linux**, and **Cloud Security**, while exploring advanced **networking** concepts.
+- 🤝 Open to collaborating on **cloud computing**, **networking**, and **cloud security** projects.
+- 🧠 Lifelong learner, always expanding my knowledge and skills in the tech world.
+
+Let’s connect and build secure, scalable solutions!
 - 📫 Reach me at akinmioluwabukunmi109@gmail.com
 
 <!---
