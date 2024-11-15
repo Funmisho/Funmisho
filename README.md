@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @Funmisho
 
-- 👀 I’m passionate about **Cloud Computing**, **Linux**, **Networking**, and **Cloud Security**.
+- 👀 I’m passionate about **Cloud Computing**, **Linux**, **Networking**, and **Cloud Security** and **Python**.
 - 🌱 Currently focused on mastering **AWS Cloud Computing**, **Linux**, and **Cloud Security**, while exploring advanced **networking** concepts.
 - 🤝 Open to collaborating on **cloud computing**, **networking**, and **cloud security** projects.
 - 🧠 Lifelong learner, always expanding my knowledge and skills in the tech world.
