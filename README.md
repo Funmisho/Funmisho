@@ -1,59 +1,56 @@
-# Hi, I'm Bukunmi 👋
+# Hey, I'm Bukunmi 👋
 
-I’m a data enthusiast focused on **Data Analytics and Business Intelligence**.
+I build data pipelines, design schemas, and model data for analytical systems.
 
-I enjoy working with data to uncover patterns, generate insights, and support better decision-making. Recently, I’ve been developing practical skills in **data cleaning, querying, analysis, and visualization**, while also growing an interest in the **data infrastructure and engineering systems** that power analytics.
-
----
-
-## 🔍 Current Focus
-
-- Data Analytics
-- Business Intelligence
-- Data storytelling and insight communication
-- Exploring data engineering concepts
+Based in Lagos. Tilting hard toward **data engineering** — the infrastructure layer that makes analytics actually work.
 
 ---
 
-## 🛠 Tools & Technologies
+## 🔧 What I've Shipped
 
-- **SQL**
-- **Python** (Pandas, NumPy)
-- **Spreadsheets**
-- **Tableau**
-- **Git & GitHub**
+**[Movie Recommendation ETL Pipeline](https://github.com/Funmisho/movie-etl-pipeline)**
+End-to-end ETL on MovieLens 100K. Extracts raw CSVs, applies recommendation logic, loads into PostgreSQL modelled as a star schema. Four dimension tables, one fact table, SQLAlchemy for the load layer.
 
----
+**[Hospital Relational Database — General Hospital Keffi](https://github.com/Funmisho/general-hospital-keffi-db)**
+Replaced a fragmented Excel system with a 3NF relational database for a real Nigerian hospital. Six tables, WHO ICD-10 diagnosis codes, bridge table for many-to-many relationships. Analytical SQL queries for reporting. Azure SQL deployment path documented.
 
-## 📊 What I'm Working On
+**[Google Fiber Repeat Call Analysis](https://github.com/Funmisho/google-fiber-bi-capstone)**
+BigQuery pipeline consolidating three market datasets via UNION ALL into a single reporting table. Surfaced a 31.2% repeat call rate. Dashboard live on Tableau Public.
 
-- Completing the **Google Data Analytics Professional Certificate**
-- Building **data analysis case studies and portfolio projects**
-- Practicing SQL and Python with real-world datasets
-- Learning more about how **data pipelines and data systems support analytics**
+**[Sales Pipeline & Lead Conversion Analysis](https://github.com/Funmisho/sales-pipeline-analysis)**
+Rebuilt a broken data model — replaced a single stage column with a relational stage history table (the structure Salesforce actually uses). SQL views as the single source of truth feeding Tableau.
 
 ---
 
-## 📚 Interests
+## 🛠 Stack
 
-I’m particularly interested in how organizations use data to:
-
-- Improve operations and strategy  
-- Understand customer behavior  
-- Support smarter decision-making  
-
-I’m also curious about the **upstream side of data**, including how data is collected, structured, and prepared for analysis.
-
----
-
-## 🚀 Goals
-
-- Continue building real-world **data projects**
-- Strengthen my **analytics and BI skills**
-- Gain deeper understanding of **data engineering and data systems**
+```
+SQL          PostgreSQL · MySQL · BigQuery · CTEs · window functions · views
+Modelling    Star schema · snowflake · normalisation · ERD design · OLTP vs OLAP
+Pipelines    ETL/ELT · SQLAlchemy · pandas · pipeline orchestration concepts
+Warehousing  Data warehouse design · materialized views · dbt (in progress)
+Viz          Tableau Public
+Learning     Airflow · Kafka · feature stores · Python scripting
+```
 
 ---
 
-## 🤝 Connect With Me
+## 📜 Certifications
 
-I'm always open to learning, collaboration, and conversations around **data, analytics, and technology**.
+- Associate Data Engineer in SQL — **DataCamp** (May 2026)
+- Google Business Intelligence Professional Certificate — **Google / Coursera** (2026)
+- Google Data Analytics Professional Certificate — **Google / Coursera** (2026)
+
+---
+
+## 📖 Currently
+
+- Data Engineering Trainee at **AI Community Africa** — weekly assignments, monthly projects, office sessions
+- Reading *Fundamentals of Data Engineering* — Joe Reis
+- Writing about data engineering concepts on **[Medium](https://medium.com/@oluwabukunmi)**
+
+---
+
+## 📬 Let's talk
+
+[LinkedIn](https://linkedin.com/in/akinmi) · [Medium](https://medium.com/@oluwabukunmi) · Lagos, Nigeria
