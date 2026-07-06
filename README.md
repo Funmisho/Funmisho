@@ -55,4 +55,4 @@ Learning     Airflow · Kafka · feature stores · Python scripting
 
 ## 📬 Let's talk
 
-[Mail](akinmioluwabukunmi109@gmail.com) · [LinkedIn](https://linkedin.com/in/akinmi) · [Medium](https://medium.com/@oluwabukunmi) · Lagos, Nigeria
+[Mail](mailto:akinmioluwabukunmi109@gmail.com) · [LinkedIn](https://linkedin.com/in/akinmi) · [Medium](https://medium.com/@oluwabukunmi) · Lagos, Nigeria
