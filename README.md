@@ -59,4 +59,4 @@ Learning     Kafka · dbt · feature stores
 
 ## 📬 Let's talk
 
-[Mail](mailto:akinmioluwabukunmi109@gmail.com) · [LinkedIn](https://linkedin.com/in/akinmi) · [Medium](https://medium.com/@oluwabukunmi) · Lagos, Nigeria
+[Mail](mailto:akinmioluwabukunmi109@gmail.com) · [LinkedIn](https://linkedin.com/in/akinmi) · [Medium](https://medium.com/@oluwabukunmi_) · Lagos, Nigeria
