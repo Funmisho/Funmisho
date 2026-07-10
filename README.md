@@ -53,7 +53,7 @@ Learning     Kafka · dbt · feature stores
 
 - Completed Data Engineering Track at **AI Community Africa** 
 - Reading *Fundamentals of Data Engineering* — Joe Reis
-- Writing about data engineering concepts on **[Medium](https://medium.com/@oluwabukunmi)**
+- Writing about data engineering concepts on **[Medium](https://medium.com/@oluwabukunmi_)**
 
 ---
 
