@@ -6,6 +6,9 @@ Based in Lagos. Tilting hard toward **data engineering** — the infrastructure 
 
 ## 🔧 What I've Shipped
 
+**[PayNaija Signups ETL Pipeline](https://github.com/Funmisho/signups_etl_pipeline)**
+Apache Airflow ETL pipeline automating daily customer signup ingestion into PostgreSQL. Validates raw CSV exports, separates rejected records with explicit rejection reasons, and loads clean data through run-scoped staging tables using idempotent upserts. Built with modular Airflow tasks, schema-cloned staging tables, and retry-safe execution.
+
 **[Weather Data ETL/ELT Pipeline](https://github.com/Funmisho/weather-pipeline)**
 Production-style pipeline pulling live forecast data (Lagos, Abuja, Kano) from the Open-Meteo API. Raw JSON staged to SQLite before transformation (ELT pattern). Star schema with fact and dimension tables, Apache Airflow orchestration on a daily schedule, structured logging, data validation, and per-city fault-tolerant error handling.
 
